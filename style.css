@@ -31,6 +31,7 @@ body{
     border-radius: 13px;
     padding: 18px;
     box-shadow: 0 10px 15px rgb(0, 0, 0);
+    
 
 }
 
@@ -82,4 +83,9 @@ button{
  button:active{
     transform:scale(.9);
     box-shadow: 5px 10px 15px rgb(5, 5, 5);
+ }
+
+ footer{
+    color: white;
+
  }
